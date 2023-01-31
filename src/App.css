@@ -1,0 +1,61 @@
+.App {
+  text-align: center;
+}
+
+
+h1{
+  margin-left: 0;
+}
+
+.pet-info{
+  margin-top: 20px;
+  padding:20px;
+  border: 2px, solid, black;
+  height: 200px;
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  border-color: black;
+  box-shadow:2px 2px 3px black;
+  margin-left: 1px;
+  align-items: flex-start;
+}
+
+h1{
+  text-align: left;
+}
+h3{
+  text-align: left;
+}
+.btn-danger{
+  background-color: red;
+  color:white;
+  box-shadow: 3px,2px,4px black;
+}
+.link{
+  text-align: left;
+}
+.container{
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+}
+form{
+  padding: 20px;
+  box-shadow:2px 2px 2px black;
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+}
+button{
+  padding-top:5px;
+}
+
+.btn-primary {
+  background-color: purple;
+  float: right;
+}
+
+.btn-primary:hover {
+  background-color: plum;
+}
